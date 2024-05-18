@@ -3,6 +3,7 @@
 	"author": "Daniel Ospina",
 	"description": "Una API de peliculas",
 	"keywords": [ "API", "APi-Rest", "Peliculas", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
