@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Daniel Ospina",
 	"description": "Una API de peliculas",
+	"keywords": [ "API", "APi-Rest", "Peliculas" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
